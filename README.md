@@ -14,7 +14,7 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-1E1E1E??style=flat&logo=Jupyter)
 ![Pandas](https://img.shields.io/badge/-Pandas-1E1E1E??style=flat&logo=pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-1E1E1E??style=flat&logo=numpy&logoColor=547FD2)
-![Sklearn](https://img.shields.io/badge/-Sklearn-1E1E1E??style=flat&logo=sklearn)
+![Sklearn](https://img.shields.io/badge/-Sklearn-1E1E1E??style=flat&logo=scikit-learn)
 ![Git](https://img.shields.io/badge/-Git-1E1E1E??style=flat&logo=git)
 
 ### **Links and contacts:**
