@@ -19,7 +19,7 @@
 
 ### **Links and contacts:**
 + [**Kaggle**](https://www.kaggle.com/goldian)
-+ [**Telegram**](t.me/thegoldian)
++ [**Telegram**](https://t.me/thegoldian)
 + [**Linkedin**](https://www.linkedin.com/in/alexander-serov-82b01b1b6/)
 
 ***
