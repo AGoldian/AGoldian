@@ -20,7 +20,7 @@
 ### **Links and contacts:**
 + [**Kaggle**](https://www.kaggle.com/goldian)
 + [**Telegram**](https://t.me/thegoldian)
-+ [**Linkedin**](https://www.linkedin.com/in/alexander-serov-82b01b1b6/)
++ [**Linkedin**](https://www.linkedin.com/in/thegoldian/)
 
 ***
 For those who don't mind playing chess - [**chess.com**](https://www.chess.com/member/thegoldian)
