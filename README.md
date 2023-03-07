@@ -14,10 +14,10 @@
 ![Numpy](https://img.shields.io/badge/-Numpy-1E1E1E??style=flat&logo=numpy&logoColor=547FD2)
 ![Sklearn](https://img.shields.io/badge/-Sklearn-1E1E1E??style=flat&logo=scikit-learn)
 ![Git](https://img.shields.io/badge/-Git-1E1E1E??style=flat&logo=git)
-![PyTorch](https://img.shields.io/badge/-Git-1E1E1E??style=flat&logo=pytorch)
-![CatBoost](https://img.shields.io/badge/-Git-1E1E1E??style=flat&logo=catboost)
-![Matplotlib](https://img.shields.io/badge/-Git-1E1E1E??style=flat&logo=matplotlib)
-![Spark](https://img.shields.io/badge/-Git-1E1E1E??style=flat&logo=spark)
+![PyTorch](https://img.shields.io/badge/-Pytorch-1E1E1E??style=flat&logo=pytorch)
+![CatBoost](https://img.shields.io/badge/-Catboost-1E1E1E??style=flat&logo=catboost)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-1E1E1E??style=flat&logo=matplotlib)
+![Spark](https://img.shields.io/badge/-Spark-1E1E1E??style=flat&logo=spark)
 
 
 ### **Links and contacts:**
