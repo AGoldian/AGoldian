@@ -23,4 +23,3 @@
 ### **Links and contacts:**
 + [**Kaggle**](https://www.kaggle.com/goldian)
 + [**Telegram**](https://t.me/thegoldian)
-+ [**Linkedin**](https://www.linkedin.com/in/thegoldian/)
